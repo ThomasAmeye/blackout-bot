@@ -1,0 +1,21 @@
+{
+  "name": "blackout-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for blackout community",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas 'Sass' Ameye",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.5.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.23.2",
+    "sqlite3": "^5.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.24.0"
+  },
+  "keywords": []
+}
